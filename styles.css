@@ -351,8 +351,8 @@ margin: 0px;
       
       #contato-id {
         display: flex;
-            
-        margin-left: 280px;
+        flex-direction: column;      
+        margin-left: 300px;
         
         
       }
